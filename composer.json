@@ -1,0 +1,9 @@
+{
+    "name": "cihuerta/design-patterns",
+    "description": "Demostración de los 23 patrones de diseño del GoF",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
